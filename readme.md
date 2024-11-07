@@ -4,5 +4,6 @@ In this process we want to analysis our big data which cannot be analysis just b
 WE are going to check on:
 - **Which product type got most SALES**
 - **The mode of payment which people used most**
-- **How each year and month performed**
-![](C:\Users\FRANCIS\Documents\New folder\Capture.PNG)
+- **How each year and month performed**  
+![dashboard](C:\Users\FRANCIS\Documents\New folder\Capture.PNG)
+
