@@ -5,4 +5,4 @@ WE are going to check on:
 - **Which product type got most SALES**
 - **The mode of payment which people used most**
 - **How each year and month performed**
-![](C:\Users\FRANCIS\Documents\New folder\Capture.PNG)
+![DASHBOARD](C:\Users\FRANCIS\Documents\New folder\Capture.PNG)
